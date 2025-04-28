@@ -1,0 +1,1 @@
+/home/michel/MichelsonIU815/workspace/projects/lab09/_build/_CPack_Packages/Linux/TGZ/print-0.1.0.0-Linux/bin/demo
